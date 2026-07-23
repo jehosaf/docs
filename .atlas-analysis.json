@@ -1,0 +1,53 @@
+{
+  "projectType": "general",
+  "projectName": "Josias Auto Service LLC",
+  "projectDescription": "A family-owned repair shop in Seguin, TX specializing in roofing equipment repair, small engine repair, and fleet truck maintenance with over 20 years of industry experience.",
+  "theme": "almond",
+  "primaryColor": "#B8960C",
+  "lightColor": "#F5E6B0",
+  "darkColor": "#7A6208",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "introduction",
+          "about"
+        ]
+      },
+      {
+        "group": "Services",
+        "pages": [
+          "services/roofing-equipment-repair",
+          "services/fleet-truck-repair",
+          "services/small-engine-repair",
+          "services/parts-supplies"
+        ]
+      },
+      {
+        "group": "Working With Us",
+        "pages": [
+          "working-with-us/getting-started",
+          "working-with-us/service-process",
+          "working-with-us/faq"
+        ]
+      },
+      {
+        "group": "Contact",
+        "pages": [
+          "contact"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Roofing equipment repair (Leister robots, heat guns, generators, roof cutters, adhesive machines)",
+    "Gas and diesel fleet truck repair and maintenance",
+    "Small engine repair",
+    "Custom and standard adhesive cold bonding applicator hoses",
+    "Over 20 years of roofing maintenance industry experience",
+    "Family-owned, bilingual service (English & Español)",
+    "Independent repair provider serving businesses of all sizes"
+  ],
+  "publicApiSurface": []
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Josias Auto Service LLC",
+  "theme": "almond",
+  "colors": {
+    "primary": "#B8960C",
+    "light": "#F5E6B0",
+    "dark": "#7A6208"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "introduction",
+          "about"
+        ]
+      },
+      {
+        "group": "Services",
+        "pages": [
+          "services/roofing-equipment-repair",
+          "services/fleet-truck-repair",
+          "services/small-engine-repair",
+          "services/parts-supplies"
+        ]
+      },
+      {
+        "group": "Working With Us",
+        "pages": [
+          "working-with-us/getting-started",
+          "working-with-us/service-process",
+          "working-with-us/faq"
+        ]
+      },
+      {
+        "group": "Contact",
+        "pages": [
+          "contact"
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Request Service",
+      "href": "mailto:jehosaf@josiasautoservice.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61577861063636",
+      "instagram": "https://www.instagram.com/josia_sas/"
+    }
+  }
+}
