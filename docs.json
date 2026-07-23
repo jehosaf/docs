@@ -3,9 +3,9 @@
   "name": "Josias Auto Service LLC",
   "theme": "almond",
   "colors": {
-    "primary": "#B8960C",
-    "light": "#F5E6B0",
-    "dark": "#7A6208"
+    "primary": "#000000",
+    "light": "#cfa200",
+    "dark": "#cfa200"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -54,5 +54,12 @@
       "facebook": "https://www.facebook.com/profile.php?id=61577861063636",
       "instagram": "https://www.instagram.com/josia_sas/"
     }
+  },
+  "logo": {
+    "light": "/images/WhiteBackgroundJASBrandLogoWebsiteGold.png",
+    "dark": "/images/DarkBackgroundJASBrandLogoWebsiteGold.png"
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
   }
 }
